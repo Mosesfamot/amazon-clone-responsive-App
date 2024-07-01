@@ -82,5 +82,23 @@ nav {
     margin-left: 15px;
 }
 
+.nav-text {
+    margin-left: 15px;
+}
+
+.nav-text p {
+    font-size: 10px;
+}
+
+.nav-text h1 {
+    font-size: 14px;
+}
+
+.nav-cart {
+    display: flex;
+    align-items: center;
+    margin: 0 15px;
+}
+
 
 /* NAVIGATION SECTION STYLING NAVIGATION SECTION STYLING  */
