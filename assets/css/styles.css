@@ -132,7 +132,7 @@ nav {
 
 .header-img {
     max-width: 100%;
-    /* mask-image: linear-gradient(to bottom, #000000 50%, transparent 100%); */
+    mask-image: linear-gradient(to bottom, #000000 50%, transparent 100%);
 }
 
 .header-slider a {
@@ -164,7 +164,7 @@ nav {
     flex-wrap: wrap;
     row-gap: 20px;
     justify-content: space-between;
-    margin: -300px 30px 20px;
+    margin: 20px 30px;
 }
 
 .box-col {
@@ -178,7 +178,9 @@ nav {
 }
 
 .box-col a {
-    
+    font-size: 13px;
+    color: #009999;
+    font-weight: 500;
 }
 
 /* PAGE CONTENT SECTION STYLING PAGE CONTENT SECTION STYLING  */
