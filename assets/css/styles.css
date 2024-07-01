@@ -74,5 +74,13 @@ nav {
     border-radius: 0 4px 4px 0;
 }
 
+.nav-language {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    font-weight: 600;
+    margin-left: 15px;
+}
+
 
 /* NAVIGATION SECTION STYLING NAVIGATION SECTION STYLING  */
