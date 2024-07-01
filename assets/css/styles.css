@@ -269,6 +269,38 @@ nav {
     font-weight: 400;
 }
 
+.personalized-recommendation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+.personalized-recommendation .horizotal-line-up {
+    color: #000;
+    width: 100%;
+    border-top: 0.5px solid #adacac;
+    margin-bottom: 40px;
+}
+
+.personalized-recommendation .recommendation-button {
+    color: #fff;
+    background: #ffd64f;
+    padding: 0.3rem 7rem;
+    border-radius: 0.3rem;
+    margin: 0.2rem 0;
+}
+
+.personalized-recommendation .horizotal-line-down {
+    color: #000;
+    width: 100%;
+    border-top: 0.5px solid #adacac;
+    margin-top: 20px;
+}
+
 /* PAGE CONTENT SECTION STYLING PAGE CONTENT SECTION STYLING  */
 
 
