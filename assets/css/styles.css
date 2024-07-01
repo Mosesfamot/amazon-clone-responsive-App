@@ -287,11 +287,12 @@ nav {
 }
 
 .personalized-recommendation .recommendation-button {
-    color: #fff;
+    color: #000;
     background: #ffd64f;
     padding: 0.3rem 7rem;
     border-radius: 0.3rem;
     margin: 0.2rem 0;
+    font-weight: 600;
 }
 
 .personalized-recommendation .horizotal-line-down {
@@ -299,6 +300,10 @@ nav {
     width: 100%;
     border-top: 0.5px solid #adacac;
     margin-top: 20px;
+}
+
+.personalized-recommendation .recommendation-button-signin:hover {
+    color: #ffc813;
 }
 
 /* PAGE CONTENT SECTION STYLING PAGE CONTENT SECTION STYLING  */
