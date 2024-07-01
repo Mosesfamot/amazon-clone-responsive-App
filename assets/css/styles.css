@@ -312,12 +312,27 @@ nav {
 
 /* FOOTER SECTION STYLING FOOTER SECTION STYLING  */
 footer {
-    display: flex;
+    /* display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: center; */
     color: #fff;
     background: #131921;
     padding: 20px 60px;
+}
+
+.back-to-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #37475A;
+    color: #fff;
+    padding: 0.8rem 0;
+    font-size: 0.8rem;
+}
+
+.back-to-top:hover {
+    background: #5b6e84;
+    cursor: pointer;
 }
 
 /* FOOTER SECTION STYLING FOOTER SECTION STYLING  */
