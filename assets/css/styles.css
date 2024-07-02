@@ -362,4 +362,37 @@ footer .footer-links {
     text-decoration: underline;
 }
 
+.footer-logo-button {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.footer-logo-button a {
+    margin: 0 0.5rem 1rem;
+}
+
+.logo-button-a {
+    border: 1px solid #ccc;
+    padding: 0.5rem 1rem;
+}
+
+.footer-copyright {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+}
+
+.footer-copyright a {
+    margin: 0 0.3rem;
+    color: #ccc;
+}
+
+.footer-copyright a:hover {
+    text-decoration: underline;
+}
+
 /* FOOTER SECTION STYLING FOOTER SECTION STYLING  */
