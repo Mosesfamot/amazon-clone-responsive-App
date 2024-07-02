@@ -327,9 +327,6 @@ nav {
 
 /* FOOTER SECTION STYLING FOOTER SECTION STYLING  */
 footer {
-    /* display: flex;
-    justify-content: space-between;
-    align-items: center; */
     color: #fff;
     background: #131921;
     padding: 20px 60px;
@@ -378,7 +375,7 @@ footer .footer-links {
     padding: 0.5rem 1rem;
 }
 
-.footer-copyright {
+.footer-copyright-link {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -386,13 +383,21 @@ footer .footer-links {
     font-size: 0.8rem;
 }
 
-.footer-copyright a {
+.footer-copyright-link a {
     margin: 0 0.3rem;
     color: #ccc;
 }
 
-.footer-copyright a:hover {
+.footer-copyright-link a:hover {
     text-decoration: underline;
+}
+
+.footer-copyright-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    color: #ccc;
 }
 
 /* FOOTER SECTION STYLING FOOTER SECTION STYLING  */
