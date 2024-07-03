@@ -171,3 +171,7 @@ body {
     margin: 10px 0;
 }
 
+.product-d-purchase .price span {
+    font-size: 26px;
+    padding: 2px;
+}
