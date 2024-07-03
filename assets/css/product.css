@@ -113,3 +113,21 @@ body {
 .product-d-price p span {
     color: #007185;
 }
+
+.product-color-selection {
+    margin: 15px 0;
+}
+
+.product-color-options {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.option {
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+    border: 1px solid #cbcbcb;
+    gap: 10px;
+}
