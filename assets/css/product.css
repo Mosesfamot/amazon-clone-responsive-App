@@ -56,3 +56,15 @@
 .product-rating p {
     color: #007185;
 }
+
+.product-rating p span {
+    color: #fff;
+    background: #c73500;
+    padding: 2px 50px;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.product-rating h5 {
+    
+}
