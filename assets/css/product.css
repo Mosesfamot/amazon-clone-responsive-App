@@ -131,3 +131,10 @@ body {
     border: 1px solid #cbcbcb;
     gap: 10px;
 }
+
+.product-info {
+    display: grid;
+    grid-template-columns: auto auto;
+    max-width: 300px;
+    margin-bottom: 15px;
+}
