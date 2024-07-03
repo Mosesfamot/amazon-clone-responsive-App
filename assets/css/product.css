@@ -150,3 +150,23 @@ body {
     gap: 10px;
     margin-left: 30px;
 }
+
+.product-d-purchase {
+    width: 100%;
+    max-width: 280px;
+    border: 1px solid #c1c1c1;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.product-d-purchase .title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.product-d-purchase .price {
+    font-size: 16px;
+    font-weight: 400;
+    margin: 10px 0;
+}
