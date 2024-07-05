@@ -220,3 +220,15 @@ body {
     background: #ffa41c;
 }
 
+.product-seller-info {
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 4px;
+    font-size: 14px;
+    color: #565656;
+}
+
+.product-seller-info span {
+    color: #007185;
+}
