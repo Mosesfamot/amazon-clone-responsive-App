@@ -38,3 +38,11 @@
     font-size: 12px;
     margin-top: 10px;
 }
+
+.product-cart-bestseller span {
+    font-size: 13px;
+    background: #c45500;
+    color: #fff;
+    padding: 3px 8px;
+}
+
