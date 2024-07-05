@@ -68,7 +68,16 @@
     margin: 3px 0;
 }
 
-..product-cart-giftoption span {
+.product-cart-giftoption span {
     color: #007185;
+}
+
+.product-cart-specs {
+    max-width: 150px;
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 3px;
+    font-size: 13px;
+    margin: 7px 0;
 }
 
