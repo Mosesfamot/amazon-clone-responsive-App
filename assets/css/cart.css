@@ -46,3 +46,25 @@
     padding: 3px 8px;
 }
 
+.product-cart-stock {
+    font-size: 13px;
+    color: #007600;
+    margin: 4px 0;
+}
+
+.product-cart-delivery {
+    font-size: 15px;
+}
+
+.product-cart-returns {
+    font-size: 15px;
+    color: #007185;
+    font-weight: 400;
+}
+
+.product-cart-giftoption {
+    color: #494949;
+    font-size: 13px;
+    margin: 3px 0;
+}
+
