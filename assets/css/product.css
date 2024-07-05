@@ -232,3 +232,17 @@ body {
 .product-seller-info span {
     color: #007185;
 }
+
+.product-d-purchase hr {
+    margin: 20px 0;
+}
+
+.product-add-list {
+    width: 100%;
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    text-align: start;
+    background: #fff;
+    cursor: pointer;
+}
