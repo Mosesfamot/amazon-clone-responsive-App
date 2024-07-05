@@ -29,5 +29,12 @@
 }
 
 .product-cart-titleprice {
-    
+    display: flex;
+    gap: 20px;
+    font-size: 18px;
+}
+
+.product-cart-bestseller {
+    font-size: 12px;
+    margin-top: 10px;
 }
