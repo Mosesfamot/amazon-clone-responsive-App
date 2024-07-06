@@ -65,6 +65,11 @@ body {
     background: #ebc712;
 }
 
-.signin-condition span {
+.signin-container p span {
     color: #0066c0;
+}
+
+.signin-help {
+    font-size: 13px;
+    margin: 20px 0;
 }
