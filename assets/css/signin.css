@@ -73,3 +73,18 @@ body {
     font-size: 13px;
     margin: 20px 0;
 }
+
+.signin-container hr {
+    border: none;
+    height: 1px;
+    background: #d4d4d4;
+}
+
+.signin-container h4 {
+    margin: 15px 0;
+    font-size: 13px;
+}
+
+.signin-business {
+    font-size: 13px;
+}
