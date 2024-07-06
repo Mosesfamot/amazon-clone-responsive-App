@@ -94,3 +94,9 @@
     background: #cfcfcf;
 }
 
+.cart-list-action select {
+    padding: 5px;
+    border-radius: 6px;
+    background: #f3f3f3;
+}
+
