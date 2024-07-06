@@ -14,3 +14,17 @@ body {
     font-family: Outfit;
     min-height: 100vh;
 }
+
+.logo {
+    margin-top: 20px;
+}
+
+.signin-container {
+    max-width: 350px;
+    border: 1px solid #d2d2d2;
+    margin: auto;
+    margin-top: 20px;
+    padding: 20px 26px;
+    border-radius: 8px;
+    text-align: left;
+}
