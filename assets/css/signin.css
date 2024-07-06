@@ -28,3 +28,26 @@ body {
     border-radius: 8px;
     text-align: left;
 }
+
+.signin-title {
+    font-size: 28px;
+    font-weight: 400;
+}
+
+.input-label {
+    margin-top: 20px;
+}
+
+.signin-container input {
+    width: 100%;
+    height: 32px;
+    margin-top: 5px;
+    padding: 3px 7px;
+    border-radius: 3px;
+    border: 1px solid #a0a0a0;
+    font-size: 12px;
+}
+
+.signin-container input:focus {
+    outline: 3px solid #c2f2ff;
+}
