@@ -126,6 +126,12 @@
     font-size: 13px;
 }
 
+.cart-subtotal {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 500;
+}
+
 
 /* RIGHT CART SECTION STYLING  */
 
