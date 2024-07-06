@@ -106,3 +106,12 @@ body {
     background: #d4d4d4;
     width: 110px;
 }
+
+.signin-signup-btn {
+    width: 350px;
+    height: 30px;
+    font-size: 13px;
+    background: #fff;
+    border-radius: 5px;
+    border: 1px solid #c3c3c3;
+}
