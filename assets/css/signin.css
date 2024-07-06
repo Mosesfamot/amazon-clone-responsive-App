@@ -132,3 +132,15 @@ footer {
     border: 2px solid #ededed;
     font-size: 12px;
 }
+
+.footer-links {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+.footer-links a {
+    text-decoration: none;
+    color: #0066c0;
+}
