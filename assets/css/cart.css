@@ -147,6 +147,10 @@
     cursor: pointer;
 }
 
+.cart-right button:hover {
+    background: #ebc712;
+}
+
 
 /* RIGHT CART SECTION STYLING  */
 
