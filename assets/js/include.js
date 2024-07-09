@@ -37,6 +37,9 @@ class pageHeader extends HTMLElement {
                 <p>Return</p>
                 <h1>& Orders</h1>
             </div>
+            <a href="signin.html" class="mobile-user-icon">
+                <img src="assets/img/user.png" alt="">
+            </a>
             <a href="cart.html" class="nav-cart">
                 <img src="assets/img/cart_icon.png" width="35px" alt="cart-icon">
                 <h4>Cart</h4>
