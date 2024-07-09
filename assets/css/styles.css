@@ -103,6 +103,10 @@ nav {
     margin: 0 15px;
 }
 
+.mobile-user-icon {
+    display: none;
+}
+
 .nav-botton {
     display: flex;
     align-items: center;
@@ -440,6 +444,16 @@ footer .footer-links {
 
     .nav-bottom p {
         text-wrap: nowrap;
+    }
+
+    .mobile-user-icon {
+        display: flex;
+        flex: 1;
+        justify-content: flex-end;
+    }
+
+    .mobile-user-icon img {
+        width: 25px;
     }
 }
 
