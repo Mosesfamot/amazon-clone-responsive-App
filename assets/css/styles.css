@@ -455,6 +455,14 @@ footer .footer-links {
     .mobile-user-icon img {
         width: 25px;
     }
+
+    .nav-cart h4 {
+        display: none;
+    }
+
+    .nav-cart img {
+        width: 25px;
+    }
 }
 
 /* MEDIA QUERY SECTION MEDIA QUERY SECTION  */
