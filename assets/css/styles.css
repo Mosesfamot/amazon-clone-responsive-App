@@ -427,6 +427,16 @@ footer .footer-links {
     .nav-text {
         display: none;
     }
+    
+    .nav-bottom {
+        font-size: 13px;
+        gap: 10px;
+        overflow-x: scroll;
+    }
+
+    .nav-bottom::webkit-scroller {
+        display: none;
+    }
 }
 
 /* MEDIA QUERY SECTION MEDIA QUERY SECTION  */
