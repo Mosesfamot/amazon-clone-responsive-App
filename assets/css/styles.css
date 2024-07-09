@@ -422,11 +422,9 @@ footer .footer-links {
 }
 
 @media only screen and (max-width: 600px) {
-    .nav-country {
-        display: none;
-    }
-
-    .nav-language {
+    .nav-country,
+    .nav-language,
+    .nav-text {
         display: none;
     }
 }
