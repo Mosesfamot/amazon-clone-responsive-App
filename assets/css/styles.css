@@ -437,6 +437,10 @@ footer .footer-links {
     .nav-bottom::webkit-scroller {
         display: none;
     }
+
+    .nav-bottom p {
+        text-wrap: nowrap;
+    }
 }
 
 /* MEDIA QUERY SECTION MEDIA QUERY SECTION  */
