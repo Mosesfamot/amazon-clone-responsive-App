@@ -39,3 +39,6 @@ for (const item of scrollContainer) {
         item.scrollLeft += evt.deltaY;
     });
 }
+
+
+let productData = document.getElementById("product-data");
