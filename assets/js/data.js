@@ -5,5 +5,10 @@ let productItemsData = [
         store: "",
         rating: "",
         bestseller: "",
+        discount: 34,
+        price: 25,
+        pricedecimal: 99,
+        image: "",
+        
     }
 ]
