@@ -14,6 +14,11 @@ let productItemsData = [
         color: "Blue",
         otherproductimg: "",
         brand: "BENGOO",
-        model: "G9000"
+        model: "G9000",
+        formfactor: "Over Ear",
+        connecttech: "Wired",
+        descone: "",
+        desctwo: "",
+        descthree: ""
     }
 ]
