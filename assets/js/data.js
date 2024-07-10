@@ -21,6 +21,7 @@ let productItemsData = [
         desctwo: "",
         descthree: "",
         descfour: "",
-        descfive: ""
+        descfive: "",
+        instock: "In Stock",
     },
 ];
