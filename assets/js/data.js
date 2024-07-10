@@ -8,7 +8,8 @@ let productItemsData = [
         discount: 34,
         price: 25,
         pricedecimal: 99,
-        image: "",
-        
+        productimage: "",
+        listprice: 39,
+        listpricedecimal: 99,
     }
 ]
