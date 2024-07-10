@@ -11,5 +11,9 @@ let productItemsData = [
         productimage: "",
         listprice: 39,
         listpricedecimal: 99,
+        color: "Blue",
+        otherproductimg: "",
+        brand: "BENGOO",
+        model: "G9000"
     }
 ]
