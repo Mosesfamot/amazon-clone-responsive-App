@@ -19,6 +19,8 @@ let productItemsData = [
         connecttech: "Wired",
         descone: "",
         desctwo: "",
-        descthree: ""
-    }
-]
+        descthree: "",
+        descfour: "",
+        descfive: ""
+    },
+];
